@@ -52,23 +52,39 @@ This project focuses on Stock Market Analysis and Prediction using historical st
 ## 📷 Project Screenshots
 
 ### Project Introduction & Objectives
-![Project Overview](<img width="1271" height="543" alt="Pic1" src="https://github.com/user-attachments/assets/666b8abe-0283-4f3f-9589-44fd79ae4232" /.png>
+![Project Overview](images/Pic1.png
 )
 
 ### Stock Data Preview (AAPL)
-![Stock Data Head](Pic2.png)
+![Stock Data Head](images/Pic2.png)
 
 ### Statistical Summary
-![Stock Summary](Pic3.png)
+![Stock Summary](images/Pic3.png)
 
 ### Closing Price Trend
-![Closing Price Trend](Pic4.png)
+![Closing Price Trend](images/Pic4.png)
 
 ### Trading Volume Analysis
-![Volume Analysis](Pic5.png)
+![Volume Analysis](images/Pic5.png)
 
 ### Daily Returns & Risk Analysis
-![Daily Returns](Pic6.png)
+![Daily Returns](images/Pic6.png)
+
+
+### Stock Data Preview (AAPL)
+![Stock Data Head](images/Pic7.png)
+
+### Statistical Summary
+![Stock Summary](images/Pic8.png)
+
+### Closing Price Trend
+![Closing Price Trend](images/Pic9.png)
+
+### Trading Volume Analysis
+![Volume Analysis](images/Pic10.png)
+
+### Daily Returns & Risk Analysis
+![Daily Returns](images/Pic11.png)
 
 ---
 
